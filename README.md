@@ -1,2 +1,2 @@
 # v2rayServer
-v2ray server
+Cloned from https://github.com/v2fly/fhs-install-v2ray
